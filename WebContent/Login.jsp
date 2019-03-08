@@ -12,5 +12,7 @@
 
 <b> Please contact customer support</b>
 
+<b> contact details</b>
+
 </body>
 </html>
